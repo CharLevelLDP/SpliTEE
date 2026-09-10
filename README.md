@@ -8,3 +8,19 @@ Running an entire LLM inside a CPU-based TEE can introduce significant computati
 </p>
 
 <img width="901" height="321" alt="image" src="https://github.com/user-attachments/assets/4ddc528a-469b-43a2-9166-e2ca419eec35" />
+
+
+## Software Environment
+
+The main experiments were conducted using the following software versions:
+
+- Python 3.10.20
+- NumPy 2.2.6
+- pandas 2.3.3
+- Matplotlib 3.10.9
+- PyTorch 2.7.1+cu128
+- Transformers 5.12.1
+- OpenAI 2.50.0
+- sentence-transformers 5.6.1
+- tqdm 4.68.3
+- CUDA 12.8
